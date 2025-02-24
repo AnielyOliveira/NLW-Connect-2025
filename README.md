@@ -1,7 +1,7 @@
 # NLW Connect - Trilha: React 
 
 ## Sobre o Projeto
-![image](https://github.com/user-attachments/assets/fa5cd81f-b62a-4cf8-b176-52244d20a51a)
+![image](https://github.com/user-attachments/assets/cce8e246-0286-486f-8b34-867593e24f77)
 Figma da Rocketseat: [DevStage Layout](https://www.figma.com/design/colu90KeriGqMImJ9F76lm/NLW-Connect-•-DevStage-(Community)?node-id=915-685&t=xMLl6cdb3ZmEBsCI-0)
 
 ## Tecnologias Utilizadas
